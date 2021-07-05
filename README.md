@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m Ignatius Omeje
+- 👀 I’m interested in improving on my programming knowledge and experience and as well as give back to my society through what i have gathered.
+- 🌱 I’m currently learning JavaScript and its in-dept branches
+- 💞️ I’m looking to collaborate on projects that will help humanity at large and help me too to both gather more experience, knowledge and financial income.
+- 📫 How to reach me @twitter: @mrexcel153; @email: ignatiusomeje153@gmail.com
 
 <!--
 **mrexcel153/mrexcel153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
